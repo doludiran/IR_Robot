@@ -1,0 +1,13 @@
+--cpu Cortex-M3
+".\objects\main.o"
+".\objects\io.o"
+".\objects\lcd.o"
+".\objects\remote.o"
+".\objects\trig.o"
+".\objects\clocks.o"
+".\objects\startup_stm32f10x_md_vl.o"
+".\objects\system_stm32f10x.o"
+--strict --scatter ".\Objects\387proj.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\387proj.map" -o .\Objects\387proj.axf

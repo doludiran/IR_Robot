@@ -1,0 +1,11 @@
+#include"stdint.h"
+#include"stm32f10x.h"
+
+void ultra_Config(void);
+uint16_t ultra_Read(void);
+void clockInit(void);
+void apbclock_en(void);
+void configMode(void);
+void PWM_Init(void);
+void delay(uint32_t count);
+void Display_dist(uint16_t dist);

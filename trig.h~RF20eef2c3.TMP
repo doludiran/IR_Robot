@@ -1,0 +1,6 @@
+#include"stdint.h"
+#include"stm32f10x.h"
+
+void ultra_Config(void);
+uint16_t ultra_Read(void);
+void PWM_Init(void);

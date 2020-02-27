@@ -1,0 +1,79 @@
+Dependencies for Project '387proj', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x58E7ECD3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Users\oludirad\Desktop\mars\RTE-IC:\Users\oludirad\Desktop\mars\RTE\Device\STM32F100RB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (clocks.h)(0x5893F05A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F0306)
+I (io.h)(0x58E42AAE)
+I (lcd.h)(0x58D47E54)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BAD240)
+I (C:\Users\oludirad\Desktop\mars\RTE\RTE_Components.h)(0x58E335E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm3.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EBD34C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1EF31C)
+I (remote.h)(0x58E7EC62)
+I (trig.h)(0x58E42AAE)
+F (.\io.c)(0x58E6B61C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Users\oludirad\Desktop\mars\RTE-IC:\Users\oludirad\Desktop\mars\RTE\Device\STM32F100RB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\io.o --omf_browse .\objects\io.crf --depend .\objects\io.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BAD240)
+I (C:\Users\oludirad\Desktop\mars\RTE\RTE_Components.h)(0x58E335E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm3.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F0306)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EBD34C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1EF31C)
+I (io.h)(0x58E42AAE)
+F (.\io.h)(0x58E42AAE)()
+F (.\lcd.c)(0x58E6DC4C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Users\oludirad\Desktop\mars\RTE-IC:\Users\oludirad\Desktop\mars\RTE\Device\STM32F100RB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BAD240)
+I (C:\Users\oludirad\Desktop\mars\RTE\RTE_Components.h)(0x58E335E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm3.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F0306)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EBD34C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1EF31C)
+I (io.h)(0x58E42AAE)
+I (trig.h)(0x58E42AAE)
+I (lcd.h)(0x58D47E54)
+F (.\lcd.h)(0x58D47E54)()
+F (.\remote.c)(0x58E7ED50)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Users\oludirad\Desktop\mars\RTE-IC:\Users\oludirad\Desktop\mars\RTE\Device\STM32F100RB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\remote.o --omf_browse .\objects\remote.crf --depend .\objects\remote.d)
+I (remote.h)(0x58E7EC62)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F0306)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BAD240)
+I (C:\Users\oludirad\Desktop\mars\RTE\RTE_Components.h)(0x58E335E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm3.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EBD34C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1EF31C)
+I (lcd.h)(0x58D47E54)
+F (.\remote.h)(0x58E7EC62)()
+F (.\trig.c)(0x58E7F147)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Users\oludirad\Desktop\mars\RTE-IC:\Users\oludirad\Desktop\mars\RTE\Device\STM32F100RB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\trig.o --omf_browse .\objects\trig.crf --depend .\objects\trig.d)
+I (trig.h)(0x58E42AAE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F0306)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BAD240)
+I (C:\Users\oludirad\Desktop\mars\RTE\RTE_Components.h)(0x58E335E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm3.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EBD34C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1EF31C)
+I (lcd.h)(0x58D47E54)
+I (remote.h)(0x58E7EC62)
+F (.\trig.h)(0x58E42AAE)()
+F (.\clocks.c)(0x58CC57B4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Users\oludirad\Desktop\mars\RTE-IC:\Users\oludirad\Desktop\mars\RTE\Device\STM32F100RB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\clocks.o --omf_browse .\objects\clocks.crf --depend .\objects\clocks.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BAD240)
+I (C:\Users\oludirad\Desktop\mars\RTE\RTE_Components.h)(0x58E335E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm3.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F0306)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EBD34C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1EF31C)
+I (clocks.h)(0x5893F05A)
+F (.\clocks.h)(0x5893F05A)()
+F (RTE\Device\STM32F100RB\RTE_Device.h)(0x56FAA33C)()
+F (RTE\Device\STM32F100RB\startup_stm32f10x_md_vl.s)(0x4F1EF31C)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Users\oludirad\Desktop\mars\RTE-IC:\Users\oludirad\Desktop\mars\RTE\Device\STM32F100RB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD_VL SETA 1"--list .\listings\startup_stm32f10x_md_vl.lst --xref -o .\objects\startup_stm32f10x_md_vl.o --depend .\objects\startup_stm32f10x_md_vl.d)
+F (RTE\Device\STM32F100RB\system_stm32f10x.c)(0x4F1EF31C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Users\oludirad\Desktop\mars\RTE-IC:\Users\oludirad\Desktop\mars\RTE\Device\STM32F100RB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BAD240)
+I (C:\Users\oludirad\Desktop\mars\RTE\RTE_Components.h)(0x58E335E4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm3.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F0306)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D881BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EBD34C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1EF31C)
